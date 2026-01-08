@@ -79733,7 +79733,7 @@ ${this.value ?? ""}</textarea
                           children: [
                             "\xa9 ",
                             X("eleventh_section_all_right"),
-                            " - 2025",
+                            " - 2026",
                           ],
                         }),
                       }),

@@ -79540,12 +79540,12 @@ ${this.value ?? ""}</textarea
             (0, eo.jsxs)(eo.Fragment, {
               children: [
                 (0, eo.jsx)(eX(), {
-                  href: "mailto:support@remittix.io",
-                  children: "support@remittix.io",
+                  href: "mailto:support@remittix-eth.com",
+                  children: "support@remittix-eth.com",
                 }),
                 (0, eo.jsx)(eX(), {
-                  href: "mailto:marketing@remittix.io",
-                  children: "marketing@remittix.io",
+                  href: "mailto:marketing@remittix-eth.com",
+                  children: "marketing@remittix-eth.com",
                 }),
               ],
             });

@@ -99,7 +99,7 @@
                     ),
                     (0, n.jsxs)("span", {
                       className: "text-gray font-medium",
-                      children: [t("terms_contact_us"), " support@remittix.io"],
+                      children: [t("terms_contact_us"), " support@remittix-eth.com"],
                     }),
                   ],
                 }),

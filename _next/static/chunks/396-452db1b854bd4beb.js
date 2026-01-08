@@ -195,7 +195,7 @@
               {
                 title: e("tenth_section_frequently_questions_other_1"),
                 content: e("tenth_section_frequently_questions_other_1_1"),
-                email: "support@remittix.io",
+                email: "support@remittix-eth.com",
               },
               {
                 title: e("tenth_section_frequently_questions_other_2"),

@@ -297,7 +297,7 @@
                     }),
                     (0, s.jsx)("div", {
                       className: "item-content",
-                      children: "0xcomingsooncomingsoon...",
+                      children: "0xcomingsoon...",
                     }),
                   ],
                 }),

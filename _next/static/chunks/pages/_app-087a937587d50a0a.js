@@ -86943,7 +86943,7 @@ ${this.value ?? ""}</textarea
                       "flex flex-row-reverse items-center gap-4 md:flex-row",
                     children: [
                       (0, eo.jsx)(eh(), {
-                        href: "https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
+                        href: "https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0x5e29f1b3947b85782bf29508deb6c6c6f66b4034",
                         target: "_blank",
                         className: "hidden md:flex",
                         children: (0, eo.jsxs)("div", {
@@ -87034,7 +87034,7 @@ ${this.value ?? ""}</textarea
                 {
                   className: "whitespace-nowrap",
                   children: [
-                    "CA: 0xcomingsoon",
+                    "CA: 0x5e29f1b3947b85782bf29508deb6c6c6f66b4034",
                   ],
                 },
                 et

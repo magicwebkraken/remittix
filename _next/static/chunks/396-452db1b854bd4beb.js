@@ -560,7 +560,7 @@
               (0, l.jsx)("div", {
                 className: "flex justify-center",
                 children: (0, l.jsx)(i.rU, {
-                  onClick: ()=> window.open("https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0x5e29f1b3947b85782bf29508deb6c6c6f66b4034"),
+                  onClick: ()=> window.open("https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0xf2d3b10154e6d54318632876b4c6a808eb5c8295"),
                   children: (0, l.jsxs)("button", {
                     className: "third h-[71px] w-[321px] relative",
                     children: [

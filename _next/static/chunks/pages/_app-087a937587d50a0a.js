@@ -79511,13 +79511,13 @@ ${this.value ?? ""}</textarea
             (0, eo.jsxs)(eo.Fragment, {
               children: [
                 (0, eo.jsx)(eX(), {
-                  href: "https://x.com/remittix",
+                  href: "https://x.com/Remittixboom",
                   className: "hover:scale-110",
                   target: "_blank",
                   children: (0, eo.jsx)(eZ.default, { className: "size-6" }),
                 }),
                 (0, eo.jsx)(eX(), {
-                  href: "https://t.me/remittix_Portal",
+                  href: "https://t.me/remittixboom",
                   className: "hover:scale-110",
                   target: "_blank",
                   children: (0, eo.jsx)(eG.default, { className: "size-7" }),

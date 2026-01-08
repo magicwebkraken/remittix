@@ -452,13 +452,13 @@
                             "flex items-center justify-center gap-12 md:justify-start",
                           children: [
                             (0, l.jsx)(d(), {
-                              href: "https://x.com/remittix",
+                              href: "https://x.com/Remittixboom",
                               className: "cursor-pointer hover:scale-110",
                               target: "_blank",
                               children: (0, l.jsx)(i.default, {}),
                             }),
                             (0, l.jsx)(d(), {
-                              href: "https://t.me/remittix_Portal",
+                              href: "https://t.me/remittixboom",
                               className: "cursor-pointer hover:scale-110",
                               target: "_blank",
                               children: (0, l.jsx)(x.default, {}),
